@@ -1,0 +1,31 @@
+.suggestionWidgetThumbnail{
+    max-width: 300px;
+    max-height: 150px;
+}
+
+span.title{
+    color: rgba(0,0,0,.87);
+    padding-top: 5px;
+    word-wrap: break-word;
+}
+
+span.type{
+    color: rgba(0,0,0,.53);
+}
+
+span.title,span.type{
+    float: left;
+    clear: left;
+}
+
+.suggestionCell{
+    max-width: 250px;
+    max-height: 100px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.suggestionImg{
+    width: 250px;
+    height: 150px;
+}
